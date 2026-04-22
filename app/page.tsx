@@ -39,7 +39,7 @@ export default function Home() {
               text={"Waitlist"} 
               icon={PillButtonIcon.LINK} 
               onClick={
-                () => { window.open(`tally.so/r/7RoqdR`, '_blank') }
+                () => { window.open(`https://tally.so/r/7RoqdR`, '_blank') }
               }/>
           </div>
         </div>
