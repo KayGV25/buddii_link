@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Budii social links",
-  description: "Page that contains social link to Budii",
+  title: "BUDDii social links",
+  description: "Page that contains social link to BUDDii",
 };
 
 export default function RootLayout({

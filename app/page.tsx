@@ -11,13 +11,13 @@ export default function Home() {
           <div className='flex flex-col justify-center items-center gap-y-4'>
             <Image 
               loading="eager"
-              src="/budii_logo.jpg"
+              src="/buddii_logo.jpg"
               alt="Budii Logo"
               width={150}
               height={150}
               className='rounded-full border-white border-8 shadow-2xl shadow-white'
             />
-            <h1 className='text-5xl font-bold text-white'>BUDII</h1>
+            <h1 className='text-5xl font-bold text-white'>BUDDii</h1>
             <p className='font-light italic text-center text-sm'>
               &quot;Turn intention into real life 🌍 no more “we should hang out”we actually do it 💥find your people ↓&quot;
             </p>
