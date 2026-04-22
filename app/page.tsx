@@ -27,7 +27,7 @@ export default function Home() {
               text={"Whatsapp"} 
               icon={PillButtonIcon.WHATSAPP} 
               onClick={
-                () => { window.open(`chat.whatsapp.com/LGAtm5LTcyvI6jo48a7emo`, '_blank') }
+                () => { window.open(`https://chat.whatsapp.com/LGAtm5LTcyvI6jo48a7emo`, '_blank') }
               }/>
               <PillButton 
               text={"Instagram"} 
